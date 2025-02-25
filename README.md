@@ -6,9 +6,9 @@ Systems engineer with knowledge of software development, python,assembly and SQL
 - **Databases:** MySQL, MongoDB
 
 ## 📫 Connect with me  
-- 📧 Email: jvelasquezpi@unal.edu.co 
-- 📷 Instagram: [your_instagram](https://instagram.com/your_instagram)  
-- 📞 Phone number: +57 310 473 4474 
+- 📧 Email: jvelasquezpi@unal.edu.co  
+- 📞 Phone number: +57 310 473 4474
+- ⚡ Linkedin (url): www.linkedin.com/in/juan-diego-velasquez-pinzon-269209353
 
 
 <!--
