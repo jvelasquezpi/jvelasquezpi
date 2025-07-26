@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## 👋 Hello I am Juan Diego Velásquez Pinzón!
-Systems Engineer with experience in software development, Python, Assembly, and SQL. Passionate about the motorsport field, with a strong interest applying artificial intelligence and data science. Seeking opportunities to develop my skills in intelligent systems and contribute to innovation projects.
+Systems Engineer with experience in software development, including Python, Assembly, and SQL. Passionate about motorsports, with a strong interest in artificial intelligence and data science. Seeking opportunities to further develop my skills in intelligent systems and contribute to innovative projects.
 
 
 ## 🌐 Socials:
